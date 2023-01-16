@@ -1,7 +1,8 @@
 # Scripts
-A pretty simple script for the t-rex game and Cookie CLicker game
+A pretty simple script for the t-rex game, Cookie Clicker game, and table tennis
 Offical link for the t-rex game: https://trex-runner.com/
 Offical link for Cookie Clicker: https://orteil.dashnet.org/cookieclicker/
+Offical link for the table tennis: https://gamesnacks.com/embed/games/tabletennis
 
 
 # How to use any of the scripts
